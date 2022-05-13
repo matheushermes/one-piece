@@ -45,7 +45,7 @@
     position: fixed;
     top: 0;
     right: -18rem;
-    background-color: #202020;
+    background-image: linear-gradient(to left bottom, #181818, #1a1a1a, #1b1b1b, #1d1d1d, #1f1f1f);
     display: flex;
     text-align: center;
     justify-content: center;
