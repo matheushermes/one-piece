@@ -11,31 +11,29 @@
 
 /* Background da página */
 
-#backgroud {
+body {
     width: 100%;
     height: 100%;
-    overflow: hidden;
     display: flex;
+    overflow: hidden;
     justify-content: center;
     align-items: center;
 }
 
-#background video {
-    position: relative;
-    top: 0;
+video {
+    position: fixed;
     left: 0;
+    top: 0;
     object-fit: cover;
     width: 100%;
+    height: 100%;
     z-index: -1000;
-
 }
 
 #content {
-    position: absolute;
+    position: relative;
     top: 0;
-    left: 0;
     width: 100%;
     height: 100%;
     color: #FFFF;
-    overflow: hidden;
 }
