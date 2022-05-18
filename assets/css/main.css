@@ -1,53 +1,38 @@
 #container-main {
-    width: 100%;
     height: 100%;
+    width: 100%;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
     padding: 0 4rem;
-    z-index: -1;
+
 }
 
 #info-luffy {
-    height: 50%;
-    margin-top: 2rem;
+    width: 100%;
 }
 
 .name-luffy {
     width: 100%;
 }
 
-.text-luffy {
-    animation-duration: 2s;
-}
-
 #container-img-luffy {
-    height: 70%;
+    width: 100%;
 }
 
 .luffy-img {
-    width: 80%;
-    animation-duration: 4s;
+    width: 100%;
 }
 
-@media screen and (min-width: 48.75rem) {
+@media screen and (min-width: 31.25rem) {
     
     #container-main {
+        height: 100%;
+        display: flex;
         flex-direction: row;
-    }
-
-    #info-luffy {
-        width: 30%;
-        margin-top: 0;
-    }
-
-    .name-luffy {
-        
-    }
-
-    #container-img-luffy {
-
+        align-items: center;
+        justify-content: center;
     }
 }
 
