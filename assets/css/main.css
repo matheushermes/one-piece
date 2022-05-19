@@ -13,19 +13,19 @@
     width: 100%;
 }
 
-.name-luffy {
+#info-luffy img {
     width: 100%;
 }
 
-#container-img-luffy {
+#img-luffy {
     width: 100%;
 }
 
-.luffy-img {
+#img-luffy img {
     width: 100%;
 }
 
-@media screen and (min-width: 31.25rem) {
+@media screen and (min-width: 37.5rem) {
     
     #container-main {
         height: 100%;
@@ -33,6 +33,29 @@
         flex-direction: row;
         align-items: center;
         justify-content: center;
+        padding: 0 10rem;
+    }
+
+    #info-luffy {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+
+    #info-luffy img {
+        width: 100%;
+    }
+
+    #img-luffy {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+
+    #img-luffy img {
+        width: 90%;
     }
 }
 
