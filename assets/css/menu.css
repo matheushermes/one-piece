@@ -11,7 +11,7 @@
     z-index: 2;
     position: fixed;
     top: 2rem;
-    right: 4rem;
+    right: 2rem;
     display: flex;
     flex-direction: column;
     justify-content: space-evenly;
@@ -110,7 +110,7 @@
         left: 50%;
         transform: translate(-50%, -50%);
         height: 6rem;
-        width: 60%;
+        width: 100%;
         background-image: none;
     }
 

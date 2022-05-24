@@ -13,13 +13,13 @@
 #logo {
     position: absolute;
     top: 1rem;
-    left: 4rem;
+    left: 2rem;
     width: 4rem;
 }
 
 @media screen and (min-width: 37.5rem) {
     
     #logo {
-        left: 10rem;
+        left: 2rem;
     }
 }
