@@ -63,7 +63,7 @@
 .btn {
     position: relative;
     color: #FFFF;
-    background-color: rgb(255, 0, 0);
+    background-image: linear-gradient(to right bottom, #ff0000, #db0a10, #b71216, #941618, #711818);
     width: 8rem;
     height: 2.5rem;
     display: flex;
