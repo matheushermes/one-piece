@@ -191,6 +191,32 @@
 
 }
 
+@media screen and (min-width: 48.7rem) {
+
+    /* Informações Luffy */
+
+    .name-luffy {
+        width: 80%;
+    }
+
+    .reward {
+        width: 60%;
+    }
+    
+    /* Imagem Luffy */
+
+    #img-luffy img {
+        width: 70%;
+    }
+
+    /* Botões */
+
+    .btn {
+        width: 12rem;
+        height: 3rem;
+    }
+}
+
 
 
 
