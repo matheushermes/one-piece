@@ -1,3 +1,5 @@
+/* menu hamburguer */
+
 #menu {
     position: fixed;
     top: 0;
@@ -36,10 +38,16 @@
     transition: all 1s;
 }
 
+.zoro-theme.moved-menu .line {
+    background-color: #228B22;
+}
+
 .moved-menu #line2 {
     transform: translate(50%);
     transition: all 1s;
 }
+
+/* Menu lateral */
 
 .sidebar {
     width: 100%;
@@ -85,6 +93,10 @@
 .menu-item:hover:after {
     right: 0;
     border-bottom: #FE0000 solid .2rem;
+}
+
+.zoro-theme .menu-item:hover:after {
+    border-bottom: #228B22	solid .2rem ;
 }
 
 .menu-link {
