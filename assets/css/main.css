@@ -114,7 +114,15 @@
     background-image: linear-gradient(to right bottom, #228b22, #227d22, #226f22, #216221, #205520);
 }
 
+.sanji-theme .btn {
+    background-image: linear-gradient(to right bottom, #ffd700, #e5c314, #cbaf1d, #b39c22, #9b8925);
+}
+
 /* Social media */
+
+.social-media {
+    position: relative;
+}
 
 .social-media ul {
     width: 100%;
@@ -136,6 +144,10 @@
 
 .zoro-theme .social-media a:hover {
     color: #228B22;
+}
+
+.sanji-theme .social-media a:hover {
+    color: #FFD700;
 }
 
 

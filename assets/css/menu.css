@@ -42,6 +42,10 @@
     background-color: #228B22;
 }
 
+.sanji-theme.moved-menu .line {
+    background-color: #FFD700;
+}
+
 .moved-menu #line2 {
     transform: translate(50%);
     transition: all 1s;
@@ -97,6 +101,10 @@
 
 .zoro-theme .menu-item:hover:after {
     border-bottom: #228B22	solid .2rem ;
+}
+
+.sanji-theme .menu-item:hover:after {
+    border-bottom: #FFD700	solid .2rem ;
 }
 
 .menu-link {
