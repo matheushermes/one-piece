@@ -1,6 +1,6 @@
 ## <p align="center"> One piece </p>
 
-<p align="center"> 👊 Página simples mostrando um pouco sobre alguns membros da tripulação dos chapéus de palha do anime one piece. </p>
+<p align="center"> 🏴‍☠️ Página simples mostrando um pouco sobre alguns membros da tripulação dos chapéus de palha do anime one piece. </p>
 
 </br>
 <div align="center">
