@@ -4,7 +4,7 @@
 
 </br>
 <div align="center">
- <img alt="Page Luffy" src="https://i.ibb.co/fDPkxMc/one-piece.png">
+ <img alt="Page Luffy" src="">
 </div>
 </br>
 
